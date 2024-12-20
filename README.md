@@ -1,6 +1,6 @@
 # About:
 
-Computer Science (BS) student at UNC-Chapel Hill (December 2024 graduation). Seeking Summer 2024 internship to build industry relevant skills and experience. Extensive background in product test, researching new technologies for implementation, analyzing and adapting software, developing repair test processes, and authoring policy & procedure documents at all levels.
+Computer Science (BS) from UNC-Chapel Hill (December 2024 graduation). Extensive background in product test, researching new technologies for implementation, analyzing and adapting software, developing repair test processes, and authoring policy & procedure documents at all levels.
 
 <!--
 **vondoste/vondoste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
